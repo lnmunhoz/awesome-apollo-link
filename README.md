@@ -18,6 +18,7 @@
 ### Community Libraries
 - [apollo-link-firebase](https://github.com/Canner/apollo-link-firebase) - Provides you a simple way to use Firebase with GraphQL
 - [apollo-link-queue](https://github.com/helfer/apollo-link-queue) - A link to queue GraphQL requests when offline
+- [apollo-link-debounce](https://github.com/helfer/apollo-link-debounce) - An Apollo Link that debounces requests
 
 
 ## Documentation
