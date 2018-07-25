@@ -1,5 +1,11 @@
 # Awesome Apollo Link
-> 🔗 A curated list of apollo-link resources.
+🔗 A curated list of apollo-link resources.
+
+> Apollo Link is designed to be a powerful way to compose actions around data handling with GraphQL. Each link represents a subset of functionality that can be composed with other links to create complex control flows of data. 
+> -- <cite><a href="https://www.apollographql.com/docs/link/links/context.html">Official docs.</a></cite>
+
+
+
 
 ## Libraries
 
