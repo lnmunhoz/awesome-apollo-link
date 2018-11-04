@@ -16,6 +16,7 @@
 - [apollo-link-rest](https://github.com/apollographql/apollo-link-rest) - Use existing REST endpoints with GraphQL
 - [apollo-link-persisted-queries](https://github.com/apollographql/apollo-link-persisted-queries) - Persisted Query support with Apollo Link
 - [apollo-link-schema](https://github.com/apollographql/apollo-link/tree/master/packages/apollo-link-schema) - Assists with mocking and server-side rendering
+- [apollo-link-retry](https://github.com/apollographql/apollo-link/tree/master/packages/apollo-link-retry) - Provides exponential backoff, and jitters delays between attempts by default 
 - [apollo-link-ws](https://github.com/apollographql/apollo-link/tree/master/packages/apollo-link-ws) - Send GraphQL operations over a WebSocket
 - [apollo-link-error](https://github.com/apollographql/apollo-link/tree/master/packages/apollo-link-error) - Handle and inspect errors in your GraphQL network stack
 - [apollo-link-context](https://github.com/apollographql/apollo-link/tree/master/packages/apollo-link-context) - Easily set a context on your operation, which is used by other links further down the chain
